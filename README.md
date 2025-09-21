@@ -1,5 +1,8 @@
 
-[zzj](https://fastcdn.mihoyo.com/content-v2/hk4e/159322/16068549dffb811a7b3e1787c220c945_6864954280188492103.png)
+![拉乌玛](https://fastcdn.mihoyo.com/content-v2/hk4e/159322/16068549dffb811a7b3e1787c220c945_6864954280188492103.png)
+![丝柯克](https://fastcdn.mihoyo.com/content-v2/hk4e/156926/1e3d927b04cf859f9b16b5c754a9836c_8757491835016287290.png)
+![纳西妲](https://webstatic.mihoyo.com/upload/contentweb/2022/10/24/fe684624008db25ac4b44ea4704f9ba0_4542359697614905341.png)
+![可莉](https://webstatic.mihoyo.com/upload/contentweb/2022/06/30/16cff1c00f651f98427fc3fbab7fc855_1013342926215826750.png)
 # 🚀 Git 多人协作快速入门
 
 ## 场景假设
